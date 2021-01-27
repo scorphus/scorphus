@@ -1,4 +1,4 @@
-![Vögel am Starnberger See][banner]
+<img alt="birds swimming on a lake" title="Vögel am Starnberger See" src="https://raw.githubusercontent.com/scorphus/scorphus/master/banner.jpg" />
 
 ### Hi there 👋
 
@@ -26,7 +26,6 @@ And, as I ❤️ [love coding][advent-of-code-2020] so much, I do care to always
 
 Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty.
 
-[banner]: https://raw.githubusercontent.com/scorphus/scorphus/master/banner.jpg
 [website]: https://pabloaguiar.me
 [oh-my-fish]: https://github.com/oh-my-fish/oh-my-fish
 [fish-shell]: https://github.com/fish-shell/fish-shell
