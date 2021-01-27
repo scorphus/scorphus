@@ -14,15 +14,17 @@ projects, such as:
 - [Tsuru][tsuru]: an extensible open source Platform as a Service (PaaS) that makes application
   deployment quick and easy
 
-I also mentor hackathons such as [HackIllinois][mentor-spotlight], the largest OSS hackathon in the
-world. <!--I'm also working on a [new engine for Thumbor][imagemagick-engine] built on top of
-[ImageMagick][wand].--> And I also blog from time to time, mostly about coding on [my
+I also mentor 🙌 hackathons such as [HackIllinois][mentor-spotlight], the largest OSS hackathon in
+the world. <!--I'm also working on a [new engine for Thumbor][imagemagick-engine] built on top of
+[ImageMagick][wand].--> And I also ✍ blog from time to time, mostly about coding on [my
 website][website] — there you can find my contact links 📫 and ask me about anything! 💬
 
-🌱 I'm currently learning [Rust][advent-of-code-2018] and [Elixir][advent-of-code]  
-❤️ I [love coding][advent-of-code-2020] and try to [always keep][training] my [axe
-sharp][pythonchallengesolutions]  
-🤎 Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty
+What else I've been up to:
+
+- I'm currently learning 🦀 [Rust][advent-of-code-2018] and 💜 [Elixir][advent-of-code]
+- I ❤️ [love coding][advent-of-code-2020] and try to [always keep][training] my [axe
+  sharp][pythonchallengesolutions]
+- Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty
 
 [banner]: https://raw.githubusercontent.com/scorphus/scorphus/master/banner.jpg
 [website]: https://pabloaguiar.me
