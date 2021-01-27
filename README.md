@@ -10,8 +10,8 @@ projects, such as:
   that allows installation of plugins and themes
 - [Thumbor][thumbor]: a smart imaging service. It enables on-demand crop, resizing and flipping of
   images
-- [The Fuck][thefuck]: a magnificent app that corrects errors in previous console commands (thx for helping,
-  [@divykj][divykj]!)
+- [The Fuck][thefuck]: a magnificent app that corrects errors in previous console commands (thx for
+  helping, [@divykj][divykj]!)
 - [Tsuru][tsuru]: an extensible open source Platform as a Service (PaaS) that makes application
   deployment quick and easy
 
@@ -21,10 +21,10 @@ the world. <!--I'm also working on a [new engine for Thumbor][imagemagick-engine
 website][website] — there you can find my contact links 📫 and ask me about anything! 💬
 
 Besides that, I'm currently learning 🦀 [Rust][advent-of-code-2018] and 💜 [Elixir][advent-of-code].
-And, as I ❤️ [love coding][advent-of-code-2020] I care to [always keep][training] my axe
-[sharp][pythonchallengesolutions]
+And, as I ❤️ [love coding][advent-of-code-2020] so much, I do care to always [keep][training] my axe
+[sharp][pythonchallengesolutions].
 
-Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty
+Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty.
 
 [banner]: https://raw.githubusercontent.com/scorphus/scorphus/master/banner.jpg
 [website]: https://pabloaguiar.me
