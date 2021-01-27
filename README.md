@@ -1,3 +1,5 @@
+![Vögel am Starnberger See][banner]
+
 ### Hi there 👋
 
 I'm [Pablo][website], computer scientist and open-source enthusiast contributor. I live in beautiful
@@ -23,6 +25,7 @@ website][website] — there you can find my contact links 📫 and ask me about 
 sharp][pythonchallengesolutions]  
 • 🤎 Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty
 
+[banner]: https://raw.githubusercontent.com/scorphus/scorphus/master/banner.jpg
 [website]: https://pabloaguiar.me
 [oh-my-fish]: https://github.com/oh-my-fish/oh-my-fish
 [fish-shell]: https://github.com/fish-shell/fish-shell
