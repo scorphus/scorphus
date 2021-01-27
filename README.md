@@ -3,9 +3,8 @@
 ### Hi there 👋
 
 I'm [Pablo][website], computer scientist and open-source enthusiast contributor. I live in beautiful
-Munich, Germany, working as lead software engineer.
-
-In my free time, I maintain various open-source projects, such as:
+Munich, Germany, working as lead software engineer. In my free time, I maintain various open-source
+projects, such as:
 
 - [Oh My Fish][oh-my-fish]: the [Fish Shell][fish-shell] framework. It provides core infrastructure
   that allows installation of plugins and themes
