@@ -10,7 +10,8 @@ projects, such as:
   that allows installation of plugins and themes
 - [Thumbor][thumbor]: a smart imaging service. It enables on-demand crop, resizing and flipping of
   images
-- [The Fuck][thefuck]: a magnificent app that corrects errors in previous console commands
+- [The Fuck][thefuck]: a magnificent app that corrects errors in previous console commands (thx for helping,
+  [@divykj][divykj]!)
 - [Tsuru][tsuru]: an extensible open source Platform as a Service (PaaS) that makes application
   deployment quick and easy
 
@@ -33,6 +34,7 @@ What else I've been up to:
 [thumbor]: https://github.com/thumbor
 [tsuru]: https://github.com/tsuru
 [thefuck]: https://github.com/nvbn/thefuck
+[divykj]: https://github.com/divykj
 [dotfiles]: https://github.com/scorphus/dotfiles
 [mentor-spotlight]: https://blog.hackillinois.org/spotlights/2018/08/14/mentor-spotlight-pablo-aguiar.html
 [imagemagick-engine]: https://github.com/scorphus/imagemagick-engine
