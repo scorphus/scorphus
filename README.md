@@ -20,12 +20,11 @@ the world. <!--I'm also working on a [new engine for Thumbor][imagemagick-engine
 [ImageMagick][wand].--> And I also ✍ blog from time to time, mostly about coding on [my
 website][website] — there you can find my contact links 📫 and ask me about anything! 💬
 
-What else I've been up to:
+Besides that, I'm currently learning 🦀 [Rust][advent-of-code-2018] and 💜 [Elixir][advent-of-code].
+And, as I ❤️ [love coding][advent-of-code-2020] I care to [always keep][training] my axe
+[sharp][pythonchallengesolutions]
 
-- I'm currently learning 🦀 [Rust][advent-of-code-2018] and 💜 [Elixir][advent-of-code]
-- I ❤️ [love coding][advent-of-code-2020] and try to [always keep][training] my [axe
-  sharp][pythonchallengesolutions]
-- Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty
+Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty
 
 [banner]: https://raw.githubusercontent.com/scorphus/scorphus/master/banner.jpg
 [website]: https://pabloaguiar.me
