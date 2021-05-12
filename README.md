@@ -21,7 +21,7 @@ the world. And I also ✍ blog from time to time, mostly about coding, on [my we
 there you can find my contact links 📫 and ask me about anything! 💬
 
 Besides that, I'm currently learning 🦀 [Rust][advent-of-code-2018] and 💜 [Elixir][advent-of-code].
-And, as I ❤️ [love coding][advent-of-code-2020] so much, I do care to always [keep][training] my axe
+And, as I ❤️ love coding quite a lot, I try to always [keep][advent-of-code-2020] my axe
 [sharp][pythonchallengesolutions].
 
 Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty.
