@@ -1,6 +1,6 @@
 <img alt="birds swimming on a lake" title="Vögel am Starnberger See" src="https://raw.githubusercontent.com/scorphus/scorphus/master/banner.jpg" />
 
-### Hi there 👋
+### Hi there :wave:
 
 I'm [Pablo][website], computer scientist and open-source enthusiast contributor. I live in beautiful
 Munich, Germany, working as lead software engineer. In my free time, I maintain various open-source
@@ -16,15 +16,17 @@ projects, such as:
 - [Tsuru][tsuru]: an extensible open source Platform as a Service (PaaS) that makes application
   deployment quick and easy
 
-I also mentor 🙌 hackathons such as [HackIllinois][mentor-spotlight], the largest OSS hackathon in
-the world. And I also ✍ blog from time to time, mostly about coding, on [my website][website] —
-there you can find my contact links 📫 and ask me about anything! 💬
+I also mentor :raised_hands: hackathons such as [HackIllinois][mentor-spotlight], the largest OSS
+hackathon in the world. And I also :writing_hand: blog from time to time, mostly about coding, on
+[my website][website] — there you can find my contact links :mailbox: and ask me about anything!
+:speech_balloon:
 
-Besides that, I'm currently learning 🦀 [Rust][advent-of-code-2018] and 💜 [Elixir][advent-of-code].
-And, as I ❤️ love coding quite a lot, I try to always [keep][advent-of-code-2020] my axe
-[sharp][pythonchallengesolutions].
+Besides that, I'm currently learning :crab: [Rust][advent-of-code-2018] and :purple_heart:
+[Elixir][advent-of-code]. And, as I :heart: love coding quite a lot, I try to always
+[keep][advent-of-code-2020] my axe [sharp][pythonchallengesolutions].
 
-Beyond coding, I also love 🚴‍♂️ cycling, 🏔 hiking and ☕️ coffee that can be labeled specialty.
+Beyond coding, I also love :biking_man: cycling, :mountain_snow: hiking and :coffee: coffee that can
+be labeled specialty.
 
 [website]: https://pabloaguiar.me
 [oh-my-fish]: https://github.com/oh-my-fish/oh-my-fish
