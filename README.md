@@ -42,5 +42,4 @@ be labeled specialty.
 [advent-of-code-2018]: https://github.com/scorphus/advent-of-code-2018
 [advent-of-code]: https://github.com/scorphus/advent-of-code
 [advent-of-code-2020]: https://github.com/scorphus/advent-of-code-2020
-[training]: https://github.com/scorphus/training
 [pythonchallengesolutions]: https://github.com/scorphus/PythonChallengeSolutions
