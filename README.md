@@ -21,9 +21,9 @@ hackathon in the world. And I also :writing_hand: blog from time to time, mostly
 [my website][website] — there you can find my contact links :mailbox: and ask me about anything!
 :speech_balloon:
 
-I am currently learning <sub>:green_heart:</sub><sup>:blue_heart:</sup> [Clojure][sparring], but I
-keep touching base with :crab: [Rust][advent-of-code-2018] and :purple_heart:
-[Elixir][advent-of-code]. And, as I :heart: love coding quite a lot, I try to always
+I am currently learning [<sub>:green_heart:</sub><sup>:blue_heart:</sup> Clojure][sparring], but I
+keep touching base with [:crab: Rust][advent-of-code-2018] and [:purple_heart:
+Elixir][advent-of-code]. And, as I :heart: love coding quite a lot, I try to always
 [keep][advent-of-code-2020] my axe [sharp][pythonchallengesolutions].
 
 Beyond coding, I also love :biking_man: cycling, :mountain_snow: hiking and :coffee: coffee that can
