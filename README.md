@@ -26,8 +26,8 @@ keep touching base with [:crab: Rust][advent-of-code-2018] and [:purple_heart:
 Elixir][advent-of-code]. And, as I :heart: love coding quite a lot, I try to always
 [keep][advent-of-code-2020] my axe [sharp][pythonchallengesolutions].
 
-Beyond coding, I also love :biking_man: cycling, :mountain_snow: hiking and :coffee: coffee that can
-be labeled specialty.
+Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiking][strava] and
+:coffee: coffee that can be labeled specialty.
 
 [website]: https://pabloaguiar.me
 [oh-my-fish]: https://github.com/oh-my-fish/oh-my-fish
@@ -45,3 +45,4 @@ be labeled specialty.
 [advent-of-code]: https://github.com/scorphus/advent-of-code
 [advent-of-code-2020]: https://github.com/scorphus/advent-of-code-2020
 [pythonchallengesolutions]: https://github.com/scorphus/PythonChallengeSolutions
+[strava]: https://www.strava.com/athletes/31488876
