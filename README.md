@@ -21,9 +21,9 @@ hackathon in the world. And I also :writing_hand: blog from time to time, mostly
 [my website][website] — there you can find my contact links :mailbox: and ask me about anything!
 :speech_balloon:
 
-I am currently learning [<sub>:green_heart:</sub><sup>:blue_heart:</sup> Clojure][sparring], but I
+I am currently learning [<sub>:green_heart:</sub><sup>:blue_heart:</sup> Clojure][advent-of-code-2017], but I
 keep touching base with [:crab: Rust][advent-of-code-2018] and [:purple_heart:
-Elixir][advent-of-code]. And, as I :heart: love coding quite a lot, I try to always
+Elixir][advent-of-code-2019]. And, as I :heart: love coding quite a lot, I try to always
 [keep][advent-of-code-2020] my axe [sharp][pythonchallengesolutions].
 
 Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiking][strava] and
@@ -40,9 +40,9 @@ Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiki
 [mentor-spotlight]: https://blog.hackillinois.org/spotlights/2018/08/14/mentor-spotlight-pablo-aguiar.html
 [thumbor-wand-engine]: https://github.com/scorphus/thumbor-wand-engine
 [wand]: https://github.com/emcconville/wand
-[sparring]: https://github.com/scorphus/sparring
+[advent-of-code-2017]: https://github.com/scorphus/advent-of-code-2017
 [advent-of-code-2018]: https://github.com/scorphus/advent-of-code-2018
-[advent-of-code]: https://github.com/scorphus/advent-of-code
+[advent-of-code-2019]: https://github.com/scorphus/advent-of-code-2019
 [advent-of-code-2020]: https://github.com/scorphus/advent-of-code-2020
 [pythonchallengesolutions]: https://github.com/scorphus/PythonChallengeSolutions
 [strava]: https://www.strava.com/athletes/31488876
