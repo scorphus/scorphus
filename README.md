@@ -37,13 +37,13 @@ Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiki
 [thefuck]: https://github.com/nvbn/thefuck
 [divykj]: https://github.com/divykj
 [dotfiles]: https://github.com/scorphus/dotfiles
-[mentor-spotlight]: https://blog.hackillinois.org/spotlights/2018/08/14/mentor-spotlight-pablo-aguiar.html
+[mentor-spotlight]: https://blog.hackillinois.org/spotlights/2018/08/14/mentor-spotlight-pablo-aguiar.html "Mentor Spotlight: Pablo Aguiar"
 [thumbor-wand-engine]: https://github.com/scorphus/thumbor-wand-engine
-[wand]: https://github.com/emcconville/wand
-[aoc17]: https://github.com/scorphus/advent-of-code-2017
-[aoc18]: https://github.com/scorphus/advent-of-code-2018
-[aoc19]: https://github.com/scorphus/advent-of-code-2019
-[aoc20]: https://github.com/scorphus/advent-of-code-2020
-[aoc21]: https://github.com/scorphus/advent-of-code-2021
-[pychal]: https://github.com/scorphus/PythonChallengeSolutions
-[strava]: https://www.strava.com/athletes/31488876
+[wand]: https://github.com/emcconville/wand "ImageMagick binding for Python"
+[aoc17]: https://github.com/scorphus/advent-of-code-2017 "Solutions for Advent of Code 2017 in Clojure"
+[aoc18]: https://github.com/scorphus/advent-of-code-2018 "Solutions for Advent of Code 2018 in Rust"
+[aoc19]: https://github.com/scorphus/advent-of-code-2019 "Solutions for Advent of Code 2019 in Elixir"
+[aoc20]: https://github.com/scorphus/advent-of-code-2020 "Solutions for Advent of Code 2020 in Python"
+[aoc21]: https://github.com/scorphus/advent-of-code-2021 "Solutions for Advent of Code 2021 in Zig"
+[pychal]: https://github.com/scorphus/PythonChallengeSolutions "Solutions for Python Challenge"
+[strava]: https://www.strava.com/athletes/31488876 "My Strava profile"
