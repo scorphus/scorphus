@@ -21,7 +21,7 @@ hackathon in the world. And I also :writing_hand: blog from time to time, mostly
 [my website][website] — there you can find my contact links :mailbox: and ask me about anything!
 :speech_balloon:
 
-I am currently learning [:zap: Zig][aoc21], but I keep touching base with
+I am currently learning [:zap:Zig][aoc21], but I keep touching base with
 [<sub>:green_heart:</sub><sup>:blue_heart:</sup> Clojure][aoc17], [:crab: Rust][aoc18] and
 [:purple_heart: Elixir][aoc19]. And, as I :heart: love coding quite a lot, I try to always
 [keep][aoc20] my axe [sharp][pychal].
