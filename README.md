@@ -21,10 +21,11 @@ hackathon in the world. And I also :writing_hand: blog from time to time, mostly
 [my website][website] — there you can find my contact links :mailbox: and ask me about anything!
 :speech_balloon:
 
-I am currently learning [:zap:Zig][aoc21], but I keep touching base with
+I'm currently learning [<sup>:gem:</sup><sub>:diamonds:</sub>Ruby][aoc15] and giving
+[:zap:Zig][aoc21] a bit of attention. I try and keep touching base with
 [<sub>:green_heart:</sub><sup>:blue_heart:</sup> Clojure][aoc17], [:crab: Rust][aoc18] and
-[:purple_heart: Elixir][aoc19]. And, as I :heart: love coding quite a lot, I try to always
-[keep][aoc20] my axe [sharp][pychal].
+[:purple_heart: Elixir][aoc19]. And, as I :heart: love coding so much, I try to always [keep][aoc20]
+my axe [sharp][pychal].
 
 Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiking][strava] and
 :coffee: coffee that can be labeled specialty.
@@ -39,6 +40,7 @@ Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiki
 [mentor-spotlight]: https://blog.hackillinois.org/spotlights/2018/08/14/mentor-spotlight-pablo-aguiar.html "Mentor Spotlight: Pablo Aguiar"
 [thumbor-wand-engine]: https://github.com/scorphus/thumbor-wand-engine
 [wand]: https://github.com/emcconville/wand "ImageMagick binding for Python"
+[aoc15]: https://github.com/scorphus/advent-of-code-2015 "Solutions for Advent of Code 2015 in Ruby"
 [aoc17]: https://github.com/scorphus/advent-of-code-2017 "Solutions for Advent of Code 2017 in Clojure"
 [aoc18]: https://github.com/scorphus/advent-of-code-2018 "Solutions for Advent of Code 2018 in Rust"
 [aoc19]: https://github.com/scorphus/advent-of-code-2019 "Solutions for Advent of Code 2019 in Elixir"
