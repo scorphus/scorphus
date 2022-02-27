@@ -23,8 +23,8 @@ hackathon in the world. And I also :writing_hand: blog from time to time, mostly
 
 I'm currently learning [<sup>:gem:</sup><sub>:diamonds:</sub>Ruby][aoc15] and giving
 [:zap:Zig][aoc21] a bit of attention. I try and keep touching base with
-[<sub>:green_heart:</sub><sup>:blue_heart:</sup> Clojure][aoc17], [:crab: Rust][aoc18] and
-[:purple_heart: Elixir][aoc19]. And, as I :heart: love coding so much, I try to always [keep][aoc20]
+[<sub>:green_heart:</sub><sup>:blue_heart:</sup>Clojure][aoc17], [:crab:Rust][aoc18] and
+[:purple_heart:Elixir][aoc19]. And, as I :heart: love coding so much, I try to always [keep][aoc20]
 my axe [sharp][pychal].
 
 Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiking][strava] and
