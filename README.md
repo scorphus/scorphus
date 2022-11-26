@@ -40,15 +40,15 @@ Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiki
 [thumbor-wand-engine]: https://github.com/scorphus/thumbor-wand-engine
 [wand]: https://github.com/emcconville/wand "ImageMagick binding for Python"
 [racket-logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/16px-Racket-logo.svg.png
-[sparring]: https://github.com/scorphus/sparring/tree/master/advent-of-code/2016 "Some solutions for Advent of Code 2016 in Racket"
-[aoc22]: https://github.com/scorphus/advent-of-code-2015 "Solutions for Advent of Code 2022 in Racket"
+[sparring]: https://github.com/scorphus/sparring/tree/master/advent-of-code/2016 "Some solutions to Advent of Code 2016 in Racket"
+[aoc22]: https://github.com/scorphus/advent-of-code-2015 "Solutions to Advent of Code 2022 in Racket"
 [ruby-logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/16px-Ruby_logo.svg.png
-[aoc15]: https://github.com/scorphus/advent-of-code-2015 "Solutions for Advent of Code 2015 in Ruby"
+[aoc15]: https://github.com/scorphus/advent-of-code-2015 "Solutions to Advent of Code 2015 in Ruby"
 [clojure-logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/16px-Clojure_logo.svg.png
-[aoc17]: https://github.com/scorphus/advent-of-code-2017 "Solutions for Advent of Code 2017 in Clojure"
-[aoc18]: https://github.com/scorphus/advent-of-code-2018 "Solutions for Advent of Code 2018 in Rust"
-[aoc19]: https://github.com/scorphus/advent-of-code-2019 "Solutions for Advent of Code 2019 in Elixir"
-[aoc20]: https://github.com/scorphus/advent-of-code-2020 "Solutions for Advent of Code 2020 in Python"
-[aoc21]: https://github.com/scorphus/advent-of-code-2021 "Solutions for Advent of Code 2021 in Zig"
+[aoc17]: https://github.com/scorphus/advent-of-code-2017 "Solutions to Advent of Code 2017 in Clojure"
+[aoc18]: https://github.com/scorphus/advent-of-code-2018 "Solutions to Advent of Code 2018 in Rust"
+[aoc19]: https://github.com/scorphus/advent-of-code-2019 "Solutions to Advent of Code 2019 in Elixir"
+[aoc20]: https://github.com/scorphus/advent-of-code-2020 "Solutions to Advent of Code 2020 in Python"
+[aoc21]: https://github.com/scorphus/advent-of-code-2021 "Solutions to Advent of Code 2021 in Zig"
 [pychal]: https://github.com/scorphus/PythonChallengeSolutions "Solutions for Python Challenge"
 [strava]: https://www.strava.com/athletes/31488876 "My Strava profile"
