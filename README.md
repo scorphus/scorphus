@@ -21,10 +21,10 @@ hackathon in the world. And I also :writing_hand: blog from time to time, mostly
 [my website][website] — there you can find my contact links :mailbox: and ask me about anything!
 :speech_balloon:
 
-I am currently learning [:gem::diamonds:Ruby][aoc15] and giving [:zap:Zig][aoc21] a bit of attention.
-I try and keep touching base with [<sub>:green_heart:</sub><sup>:blue_heart:</sup>Clojure][aoc17],
-[:crab:Rust][aoc18] and [:purple_heart:Elixir][aoc19]. And, as I love coding so much, I try to always
-[keep][aoc20] my axe [sharp][pychal].
+I'm currently learning [![][racket-logo] Racket][sparring] and giving [:zap:Zig][aoc21] a great deal
+of attention. I recently had fun with [![][ruby-logo] Ruby][aoc15] and I keep touching base with
+[![][clojure-logo] Clojure][aoc17], [:crab:Rust][aoc18] and [:purple_heart:Elixir][aoc19]. Also, as
+I love coding so much, I try to always [:snake:keep][aoc20] my axe [:snake:sharp][pychal].
 
 Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiking][strava] and
 :coffee: coffee that can be labeled specialty.
@@ -39,7 +39,12 @@ Beyond coding, I also love [:biking_man: cycling][strava], [:mountain_snow: hiki
 [mentor-spotlight]: https://blog.hackillinois.org/spotlights/2018/08/14/mentor-spotlight-pablo-aguiar.html "Mentor Spotlight: Pablo Aguiar"
 [thumbor-wand-engine]: https://github.com/scorphus/thumbor-wand-engine
 [wand]: https://github.com/emcconville/wand "ImageMagick binding for Python"
+[racket-logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/16px-Racket-logo.svg.png
+[sparring]: https://github.com/scorphus/sparring/tree/master/advent-of-code/2016 "Some solutions for Advent of Code 2016 in Racket"
+[aoc22]: https://github.com/scorphus/advent-of-code-2015 "Solutions for Advent of Code 2022 in Racket"
+[ruby-logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/16px-Ruby_logo.svg.png
 [aoc15]: https://github.com/scorphus/advent-of-code-2015 "Solutions for Advent of Code 2015 in Ruby"
+[clojure-logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/16px-Clojure_logo.svg.png
 [aoc17]: https://github.com/scorphus/advent-of-code-2017 "Solutions for Advent of Code 2017 in Clojure"
 [aoc18]: https://github.com/scorphus/advent-of-code-2018 "Solutions for Advent of Code 2018 in Rust"
 [aoc19]: https://github.com/scorphus/advent-of-code-2019 "Solutions for Advent of Code 2019 in Elixir"
