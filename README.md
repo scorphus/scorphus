@@ -12,7 +12,7 @@ projects, such as:
   images
 - [thumbor-wand-engine][]: an imaging engine for Thumbor built on top of [ImageMagick][wand]
 - [The Fuck][thefuck]: a magnificent app that corrects errors in previous console commands (thx for
-  helping, [@divykj][divykj]!)
+  helping, [@dvjn][dvjn]!)
 - [Tsuru][tsuru]: an extensible open source Platform as a Service (PaaS) that makes application
   deployment quick and easy
 
