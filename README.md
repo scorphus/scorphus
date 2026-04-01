@@ -3,7 +3,7 @@
 ### Hi there :wave:
 
 I'm [Pablo][website], computer scientist and open-source enthusiast contributor. I live in beautiful
-Munich, Germany, working as lead software engineer. In my free time, I maintain various open-source
+Munich, Germany, working as Head of Engineering. In my free time, I maintain various open-source
 projects, such as:
 
 - [Oh My Fish][oh-my-fish]: the [Fish Shell][fish-shell] framework. It provides core infrastructure
